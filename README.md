@@ -2,7 +2,7 @@
 
 # Affan Yousuf
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=Developer+%7C+Builder+%7C+Problem+Solver;Clean+code.+Scalable+systems.+M[...] 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=Developer+%7C+Builder+%7C+Problem+Solver;Clean+code.+Scalable+systems.+Impactful+products" alt="Affan Yousuf typing banner" />
 
 [![GitHub followers](https://img.shields.io/github/followers/iamaffanyousuf?style=social)](https://github.com/iamaffanyousuf)
 [![GitHub User's stars](https://img.shields.io/github/stars/iamaffanyousuf?style=social)](https://github.com/iamaffanyousuf)
