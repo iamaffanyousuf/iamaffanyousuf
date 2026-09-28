@@ -1,56 +1,91 @@
-## Hey there! 👋
+<div align="center">
 
-I'm **Affan Yousuf**, a passionate developer crafting elegant solutions to complex problems.
+# Affan Yousuf
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=Developer+%7C+Builder+%7C+Problem+Solver;Clean+code.+Scalable+systems.+Modern+solutions" alt="Typing SVG" />
+
+[![GitHub followers](https://img.shields.io/github/followers/iamaffanyousuf?style=social)](https://github.com/iamaffanyousuf)
+[![GitHub User's stars](https://img.shields.io/github/stars/iamaffanyousuf?style=social)](https://github.com/iamaffanyousuf)
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamaffanyousuf&label=Profile%20Views&color=00F5D4&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 💻 Building innovative projects and exploring cutting-edge technologies
-- 🎯 Focused on clean code, scalability, and user experience
-- 🌱 Constantly learning and growing as a developer
-- 💡 Open to collaborations and exciting opportunities
+I’m a developer focused on building modern, efficient, and user-centric digital experiences. I enjoy turning ideas into scalable products, writing clean code, and continuously learning new technologies.
+
+- 🔭 Currently building and improving practical software solutions
+- 🌱 Learning advanced frontend/backend patterns and product thinking
+- 💡 Interested in performance, architecture, and clean UX
+- 🤝 Open to collaboration and innovative opportunities
 
 ---
 
-### 📊 GitHub Statistics
+## 🧠 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamaffanyousuf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamaffanyousuf&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaffanyousuf&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaffanyousuf&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamaffanyousuf&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🏆 Highlights
 
-**Languages:** JavaScript • TypeScript • Python • Java
-
-**Frontend:** React • Next.js • Tailwind CSS
-
-**Backend:** Node.js • Express • Django
-
-**Tools & Platforms:** Git • Docker • GitHub • VS Code
+- ⚡ Building clean, fast, and maintainable software
+- 🧩 Strong interest in modern product and UI engineering
+- 📈 Constantly improving through projects, learning, and iteration
+- 🛠️ Comfortable working across frontend and backend workflows
 
 ---
 
-### 📫 Let's Connect
+## 📫 Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-iamaffanyousuf-333?style=for-the-badge&logo=github)](https://github.com/iamaffanyousuf)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iamaffanyousuf)
+[![GitHub](https://img.shields.io/badge/GitHub-@iamaffanyousuf-181717?style=for-the-badge&logo=github)](https://github.com/iamaffanyousuf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iamaffanyousuf)
+[![Email](https://img.shields.io/badge/Email-hello@affanyousuf.dev-D14836?style=for-the-badge&logo=gmail)](mailto:hello@affanyousuf.dev)
 
 </div>
 
 ---
 
-<div align="center">
-
-⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!
-
-</div>
+<p align="center">
+  <i>Build smart. Ship fast. Keep iterating.</i>
+</p>
