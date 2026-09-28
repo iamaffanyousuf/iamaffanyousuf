@@ -17,7 +17,9 @@
 
 ## 🚀 About Me
 
-I’m a developer focused on building modern, efficient, and user-centric digital experiences. I enjoy turning ideas into scalable products, writing clean code, and continuously learning new technologies.
+I’m a Student, just building modern, efficient digital experiences. And continuously learning new technologies.
+
+Too Lazy to Modify AI Slop
 
 - 🔭 Currently building and improving practical software solutions
 - 🌱 Learning advanced frontend/backend patterns and product thinking
