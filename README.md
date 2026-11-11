@@ -66,11 +66,8 @@ I build practical software, explore new ideas, and keep learning by shipping pro
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamaffanyousuf&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaffanyousuf&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=iamaffanyousuf&theme=radical&hide_border=true)
+<img width="460" src="assets/github-stats.svg" alt="GitHub stats">
+<img width="360" src="assets/top-langs.svg" alt="Top languages">
 
 </div>
 
