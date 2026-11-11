@@ -1,63 +1,66 @@
 <div align="center">
 
-# Affan Yousuf
+# Affan Yousuf 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=Developer+%7C+Student+%7C+Problem+Solver;Clean+code.+Scalable+systems.+Impactful+products" alt="Affan Yousuf typing banner" />
+### Student · Developer · Problem Solver
+
+I build practical software, explore new ideas, and keep learning by shipping projects.
 
 [![GitHub followers](https://img.shields.io/github/followers/iamaffanyousuf?style=social)](https://github.com/iamaffanyousuf)
-[![GitHub User's stars](https://img.shields.io/github/stars/iamaffanyousuf?style=social)](https://github.com/iamaffanyousuf)
+[![GitHub stars](https://img.shields.io/github/stars/iamaffanyousuf?style=social)](https://github.com/iamaffanyousuf)
+![Profile views](https://komarev.com/ghpvc/?username=iamaffanyousuf&color=00F5D4&style=flat)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamaffanyousuf)
+[![Email](https://img.shields.io/badge/Email-hello%40affanyousuf.dev-D14836?logo=gmail&logoColor=white)](mailto:hello@affanyousuf.dev)
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamaffanyousuf&label=Profile%20Views&color=00F5D4&style=flat-square" alt="Profile views" />
-</p>
-
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I’m a Student, just building modern, efficient digital experiences. And continuously learning new technologies.
+- 🔭 Building and improving practical software projects
+- 🌱 Learning modern frontend and backend patterns
+- 💡 Interested in AI, product engineering, performance, and clean UX
+- 🤝 Open to collaboration and interesting opportunities
 
-Too Lazy to Modify AI Slop
+## 🧰 Tech Stack
 
-- 🔭 Currently building and improving practical software solutions
-- 🌱 Learning advanced frontend/backend patterns and product thinking
-- 💡 Interested in performance, architecture, and clean UX
-- 🤝 Open to collaboration and innovative opportunities
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 
----
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-## 🧠 Tech Stack
+**Backend, Data & Tools**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## 🚀 Featured Projects
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
+| Project | What it is |
+|---------|------------|
+| [**God's Eye View**](https://github.com/iamaffanyousuf/gods-eye-view) | A browser-based satellite simulator using real open-source spatial intelligence data on a 3D globe. |
+| [**PalmGenerator**](https://github.com/iamaffanyousuf/PalmGenerator) | A Three.js module for procedurally generating palm trees. |
+| [**macrand**](https://github.com/iamaffanyousuf/macrand) | A minimal Linux command-line tool for generating and applying random MAC addresses. |
+| [**Portfolio**](https://github.com/iamaffanyousuf/portfolio) | My personal portfolio website. |
+| [**Agri-Attention**](https://github.com/iamaffanyousuf/projectAgriAtt) | Crop disease detection using a Vision Transformer. |
+| [**Pneumonia ViT**](https://github.com/iamaffanyousuf/pneumonia-vit-v2) | A computer-vision project exploring pneumonia detection with a Vision Transformer. |
 
 ## 📊 GitHub Stats
 
@@ -73,27 +76,4 @@ Too Lazy to Modify AI Slop
 
 ---
 
-## 🏆 Highlights
-
-- ⚡ Building clean, fast, and maintainable software
-- 🧩 Strong interest in modern product and UI engineering
-- 📈 Constantly improving through projects, learning, and iteration
-- 🛠️ Comfortable working across frontend and backend workflows
-
----
-
-## 📫 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-@iamaffanyousuf-181717?style=for-the-badge&logo=github)](https://github.com/iamaffanyousuf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iamaffanyousuf)
-[![Email](https://img.shields.io/badge/Email-hello@affanyousuf.dev-D14836?style=for-the-badge&logo=gmail)](mailto:hello@affanyousuf.dev)
-
-</div>
-
----
-
-<p align="center">
-  <i>Build smart. Ship fast. Keep iterating.</i>
-</p>
+<p align="center"><i>Build thoughtfully. Ship consistently. Keep learning.</i></p>
