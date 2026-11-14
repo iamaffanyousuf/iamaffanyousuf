@@ -55,7 +55,6 @@ I build practical software, explore new ideas, and keep learning by shipping pro
 
 | Project | What it is |
 |---------|------------|
-| [**PalmGenerator**](https://github.com/iamaffanyousuf/PalmGenerator) | A Three.js module for procedurally generating palm trees. |
 | [**macrand**](https://github.com/iamaffanyousuf/macrand) | A minimal Linux command-line tool for generating and applying random MAC addresses. |
 | [**Portfolio**](https://github.com/iamaffanyousuf/portfolio) | My personal portfolio website. |
 | [**Agri-Attention**](https://github.com/iamaffanyousuf/projectAgriAtt) | Crop disease detection using a Vision Transformer. |
