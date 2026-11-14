@@ -55,7 +55,6 @@ I build practical software, explore new ideas, and keep learning by shipping pro
 
 | Project | What it is |
 |---------|------------|
-| [**God's Eye View**](https://github.com/iamaffanyousuf/gods-eye-view) | A browser-based satellite simulator using real open-source spatial intelligence data on a 3D globe. |
 | [**PalmGenerator**](https://github.com/iamaffanyousuf/PalmGenerator) | A Three.js module for procedurally generating palm trees. |
 | [**macrand**](https://github.com/iamaffanyousuf/macrand) | A minimal Linux command-line tool for generating and applying random MAC addresses. |
 | [**Portfolio**](https://github.com/iamaffanyousuf/portfolio) | My personal portfolio website. |
