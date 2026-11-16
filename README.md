@@ -59,6 +59,10 @@ I build practical software, explore new ideas, and keep learning by shipping pro
 | [**Portfolio**](https://github.com/iamaffanyousuf/portfolio) | My personal portfolio website. |
 | [**Agri-Attention**](https://github.com/iamaffanyousuf/projectAgriAtt) | Crop disease detection using a Vision Transformer. |
 | [**Pneumonia ViT**](https://github.com/iamaffanyousuf/pneumonia-vit-v2) | A computer-vision project exploring pneumonia detection with a Vision Transformer. |
+| [**2million**](https://github.com/iamaffanyousuf/2million) | |
+| [**opencanvas**](https://github.com/iamaffanyousuf/opencanvas) | |
+| [**pilynk-releases**](https://github.com/iamaffanyousuf/pilynk-releases) | |
+| [**shaheen-global-academy**](https://github.com/iamaffanyousuf/shaheen-global-academy) | |
 
 ## 📊 GitHub Stats
 
