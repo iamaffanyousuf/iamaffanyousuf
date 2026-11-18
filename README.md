@@ -69,8 +69,8 @@ I build practical software, explore new ideas, and keep learning by shipping pro
 
 <div align="center">
 
-<img width="460" src="assets/github-stats.svg" alt="GitHub stats">
-<img width="360" src="assets/top-langs.svg" alt="Top languages">
+<img width="460" src="assets/github-stats.svg?h=1a4754b5" alt="GitHub stats">
+<img width="360" src="assets/top-langs.svg?h=b890399b" alt="Top languages">
 
 </div>
 

@@ -136,7 +136,7 @@ def paged(path):
         if not isinstance(data, list):
             break
         out.extend(data)
-        m = re.search(r'<([^>]+)>;\\s*rel="next"', link)
+        m = re.search(r'<([^>]+)>;\s*rel="next"', link)
         url = m.group(1) if m else None
     return out
 
