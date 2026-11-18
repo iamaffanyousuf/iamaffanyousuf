@@ -11,6 +11,7 @@
 <rect x="311.23" y="60" width="14.78" height="9" fill="#e34c26"/>
 <rect x="325.51" y="60" width="9.95" height="9" fill="#3572A5"/>
 <rect x="334.95" y="60" width="0.55" height="9" fill="#89e051"/>
+<rect x="335.00" y="60" width="0.00" height="9" fill="#2c3050"/>
 </g>
 <circle cx="30" cy="94" r="5" fill="#3178c6"/>
 <text x="42" y="98" fill="#38bdad" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12">TypeScript</text>
