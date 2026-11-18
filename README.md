@@ -11,7 +11,7 @@ I build practical software, explore new ideas, and keep learning by shipping pro
 ![Profile views](https://komarev.com/ghpvc/?username=iamaffanyousuf&color=00F5D4&style=flat)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamaffanyousuf)
-[![Email](https://img.shields.io/badge/Email-hello%40affanyousuf.dev-D14836?logo=gmail&logoColor=white)](mailto:hello@affanyousuf.dev)
+[![Email](https://img.shields.io/badge/Email-hello%40affanyousuf.dev-D14836?logo=gmail&logoColor=white)](mailto:iamaffanyousuf01@gmail.com)
 
 </div>
 
