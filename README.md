@@ -27,29 +27,29 @@ I build practical software, explore new ideas, and keep learning by shipping pro
 ## 🧰 Tech Stack
 
 **Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?logo=javascript&logoColor=0A0A0A)
+![TypeScript](https://img.shields.io/badge/TypeScript-00FF41?logo=typescript&logoColor=0A0A0A)
+![Python](https://img.shields.io/badge/Python-00FF41?logo=python&logoColor=0A0A0A)
+![Java](https://img.shields.io/badge/Java-00FF41?logo=openjdk&logoColor=0A0A0A)
+![C](https://img.shields.io/badge/C-00FF41?logo=c&logoColor=0A0A0A)
+![C++](https://img.shields.io/badge/C%2B%2B-00FF41?logo=cplusplus&logoColor=0A0A0A)
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-00F5D4?logo=react&logoColor=0A0A0A)
+![Next.js](https://img.shields.io/badge/Next.js-00F5D4?logo=nextdotjs&logoColor=0A0A0A)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-00F5D4?logo=tailwindcss&logoColor=0A0A0A)
+![HTML5](https://img.shields.io/badge/HTML5-00F5D4?logo=html5&logoColor=0A0A0A)
+![CSS3](https://img.shields.io/badge/CSS3-00F5D4?logo=css3&logoColor=0A0A0A)
 
 **Backend, Data & Tools**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-A855F7?logo=nodedotjs&logoColor=0A0A0A)
+![Express](https://img.shields.io/badge/Express-A855F7?logo=express&logoColor=0A0A0A)
+![MongoDB](https://img.shields.io/badge/MongoDB-A855F7?logo=mongodb&logoColor=0A0A0A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A855F7?logo=postgresql&logoColor=0A0A0A)
+![MySQL](https://img.shields.io/badge/MySQL-A855F7?logo=mysql&logoColor=0A0A0A)
+![Firebase](https://img.shields.io/badge/Firebase-A855F7?logo=firebase&logoColor=0A0A0A)
+![Docker](https://img.shields.io/badge/Docker-A855F7?logo=docker&logoColor=0A0A0A)
+![Git](https://img.shields.io/badge/Git-A855F7?logo=git&logoColor=0A0A0A)
 
 ## 🚀 Featured Projects
 
