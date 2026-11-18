@@ -55,15 +55,15 @@ I build practical software, explore new ideas, and keep learning by shipping pro
 
 | Project | What it is |
 |---------|------------|
-| [**projectPalmOilOPDT**](https://github.com/iamaffanyousuf/projectOilPalmDigitalTwin) | |
+| [**projectPalmOilOPDT**](https://github.com/iamaffanyousuf/projectOilPalmDigitalTwin) | Oil Palm Crown Detector CV Model |
 | [**macrand**](https://github.com/iamaffanyousuf/macrand) | A minimal Linux command-line tool for generating and applying random MAC addresses. |
 | [**Portfolio**](https://github.com/iamaffanyousuf/portfolio) | My personal portfolio website. |
 | [**Agri-Attention**](https://github.com/iamaffanyousuf/projectAgriAtt) | Crop disease detection using a Vision Transformer. |
 | [**Pneumonia ViT**](https://github.com/iamaffanyousuf/pneumonia-vit-v2) | A computer-vision project exploring pneumonia detection with a Vision Transformer. |
-| [**2million**](https://github.com/iamaffanyousuf/2million) | |
-| [**opencanvas**](https://github.com/iamaffanyousuf/opencanvas) | |
-| [**pilynk-releases**](https://github.com/iamaffanyousuf/pilynk-releases) | |
-| [**shaheen-global-academy**](https://github.com/iamaffanyousuf/shaheen-global-academy) | |
+| [**2million**](https://github.com/iamaffanyousuf/2million) | 2 Million is free open source new games release and best deals tracking platform, no signup required |
+| [**opencanvas**](https://github.com/iamaffanyousuf/opencanvas) | Infinite Canvas Space on the internet where you can leave your quotes, thoughts or your words ANONYMOUSLY |
+| [**pilynk-releases**](https://github.com/iamaffanyousuf/pilynk-releases) | Super Fast and Simple Sharing App, you can share files, text and directories by creating a small server with you phone on your local network |
+| [**shaheen-global-academy**](https://github.com/iamaffanyousuf/shaheen-global-academy) | Serverless WebApp for Shaheen Gloabl Academy Lucknow Main Branch |
 
 ## 📊 GitHub Stats
 
