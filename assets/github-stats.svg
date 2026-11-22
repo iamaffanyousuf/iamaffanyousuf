@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="460" height="195" viewBox="0 0 460 195" role="img" aria-labelledby="t d">
-<title id="t">iamaffanyousuf's GitHub stats</title><desc id="d">Total Stars Earned 2, Total Commits 373, Total PRs 1, Total Issues 0, Public Repositories 25</desc>
+<title id="t">iamaffanyousuf's GitHub stats</title><desc id="d">Total Stars Earned 2, Total Commits 379, Total PRs 1, Total Issues 0, Public Repositories 26</desc>
 <rect x="0.5" y="0.5" width="459" height="194" rx="6" fill="#1a1b27" stroke="#2c3050"/>
 <text x="25" y="33" fill="#70a5fd" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="600">iamaffanyousuf’s GitHub Stats</text>
 <line x1="25" y1="45" x2="435" y2="45" stroke="#2c3050"/>
@@ -8,7 +8,7 @@
 <text x="435" y="72" fill="#38bdad" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">2</text>
 <circle cx="30" cy="93" r="3" fill="#70a5fd"/>
 <text x="43" y="97" fill="#38bdad" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">Total Commits</text>
-<text x="435" y="97" fill="#38bdad" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">373</text>
+<text x="435" y="97" fill="#38bdad" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">379</text>
 <circle cx="30" cy="118" r="3" fill="#70a5fd"/>
 <text x="43" y="122" fill="#38bdad" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">Total PRs</text>
 <text x="435" y="122" fill="#38bdad" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">1</text>
@@ -17,5 +17,5 @@
 <text x="435" y="147" fill="#38bdad" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">0</text>
 <circle cx="30" cy="168" r="3" fill="#70a5fd"/>
 <text x="43" y="172" fill="#38bdad" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">Public Repositories</text>
-<text x="435" y="172" fill="#38bdad" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">25</text>
+<text x="435" y="172" fill="#38bdad" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="end">26</text>
 </svg>
